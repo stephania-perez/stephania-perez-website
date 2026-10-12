@@ -1,0 +1,240 @@
+{
+  "Meta": {
+    "title": "Stephania Pérez | Diseño de Interiores",
+    "description": "Estudio de diseño de interiores. Espacios residenciales y comerciales con elegancia atemporal y atención al detalle.",
+    "keywords": "diseño de interiores Marbella, interiorismo Costa del Sol, Stephania Pérez, villa, reforma, cocina"
+  },
+  "Nav": {
+    "home": "Inicio",
+    "portfolio": "Portafolio",
+    "about": "Sobre mí",
+    "services": "Servicios",
+    "places": "Lugares",
+    "contact": "Contacto",
+    "menu": "Menú de navegación",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "Hero": {
+    "viewPortfolio": "Ver portafolio",
+    "imageAlt": "Rincón de lectura mediterráneo con arcos encalados y luz dorada en Marbella"
+  },
+  "HomePortfolio": {
+    "title": "Hogares con alma mediterránea",
+    "paragraph1": "Cada hogar empieza con una conversación: cómo quieres despertar, recibir, cocinar. En Marbella, Málaga y la Costa del Sol diseño interiores residenciales que unen luz mediterránea, materiales nobles y calma atemporal, ya sea en una villa con vistas al mar, en una reforma integral, en una cocina a medida o en una terraza que prolonga la sala.",
+    "paragraph2": "En la galería verás fragmentos de esos proyectos: salones donde entra el horizonte, dormitorios serenos, exteriores vividos y acabados que se notan al tacto. Son hogares reales de interiorismo en la Costa del Sol, una invitación a imaginar el tuyo antes de dar el primer paso juntos.",
+    "cta": "Explorar mi portafolio completo"
+  },
+  "PortfolioPage": {
+    "title": "Portafolio",
+    "intro": "Diez proyectos de interiorismo inspirados en Marbella y la Costa del Sol.",
+    "meta": {
+      "title": "Portafolio | Stephania Pérez | Diseño de Interiores en Marbella",
+      "description": "Galería de interiorismo en Marbella, Málaga y la Costa del Sol. Villas mediterráneas, terrazas con vistas al mar y espacios luminosos.",
+      "keywords": "portafolio interiorismo Marbella, diseño interiores Costa del Sol, villa mediterránea, Stephania Pérez"
+    },
+    "images": {
+      "item1": "Salón con ventanales y vista al Mediterráneo en villa de Marbella",
+      "item2": "Terraza cubierta con lounge exterior en la Costa del Sol",
+      "item3": "Cocina blanca con encimera de piedra y luz natural",
+      "item4": "Dormitorio principal con lino blanco y detalles en terracota",
+      "item5": "Baño spa con azulejo artesanal y madera de roble",
+      "item6": "Comedor con mesa de roble y vista al jardín andaluz",
+      "item7": "Rincón de lectura con arcos encalados y luz dorada",
+      "item8": "Entrada de villa con suelo de terracota y plantas de olivo",
+      "item9": "Pérgola junto a piscina con vistas a la sierra de Marbella",
+      "item10": "Salón doble altura en ático con horizonte mar y cielo despejado"
+    }
+  },
+  "AboutPage": {
+    "meta": {
+      "title": "Sobre mí | Stephania Pérez | Diseño de Interiores",
+      "description": "Conoce a Stephania Pérez, diseñadora de interiores en Marbella y la Costa del Sol. Estética mediterránea, proyectos a medida y atención al detalle.",
+      "keywords": "Stephania Pérez, diseñadora interiores Marbella, sobre mí, interiorismo Costa del Sol"
+    },
+    "role": "Fundadora y diseñadora principal",
+    "visualAlt": "Composición abstracta en tonos mediterráneos: luz, arco y materiales naturales, estudio Stephania Pérez",
+    "bio": {
+      "p1": "Stephania Pérez dirige un estudio de interiorismo con base en Marbella, especializado en villas y segundas residencias en la Costa del Sol. Su trabajo equilibra la luz del Mediterráneo, materiales nobles y una calma atemporal.",
+      "p2": "Con formación en arquitectura de interiores y años de experiencia en proyectos residenciales de alta gama, Stephania acompaña a cada cliente desde la primera idea hasta la instalación final, con un proceso claro y personalizado.",
+      "p3": "Creemos que un hogar debe reflejar quién eres: funcional, bello y profundamente conectado con su entorno. Cada espacio que diseñamos cuenta una historia: la tuya."
+    },
+    "quote": {
+      "text": "Amar la belleza es gusto. Crear belleza es arte.",
+      "author": "Ralph Waldo Emerson"
+    }
+  },
+  "ServicesPage": {
+    "meta": {
+      "title": "Servicios | Stephania Pérez | Interiorismo en Marbella",
+      "description": "Obra nueva, reformas integrales y selección de mobiliario en Marbella y Costa del Sol. Proceso de diseño completo de la consulta a la instalación.",
+      "keywords": "servicios interiorismo Marbella, diseño cocinas Costa del Sol, reforma villa, mobiliario a medida"
+    },
+    "heroImageAlt": "Cocina mediterránea blanca con encimera de piedra y luz natural en Marbella",
+    "intro": {
+      "title": "Nuestros servicios",
+      "lead": "Ofrecemos un abanico completo de servicios de diseño de interiores para todo tipo de proyecto, incluyendo:"
+    },
+    "services": {
+      "newConstruction": {
+        "title": "Obra nueva",
+        "body": "Diseño integral desde la planificación: distribución, iluminación, materiales y mobiliario para villas y viviendas nuevas en la Costa del Sol, coordinado con arquitectos y constructoras locales."
+      },
+      "renovations": {
+        "title": "Reformas",
+        "body": "Transformación de espacios existentes con respeto por la arquitectura mediterránea: baños, salones y zonas exteriores, con seguimiento de obra y selección de acabados."
+      },
+      "kitchen": {
+        "title": "Cocina",
+        "body": "Diseño de cocinas a medida para la Costa del Sol: distribución funcional, encimeras de piedra o porcelánico, carpintería integrada, iluminación y electrodomésticos de gama alta. Desde cocinas abiertas al salón hasta espacios gourmet con isla central."
+      },
+      "furnishings": {
+        "title": "Mobiliario, acabados y accesorios",
+        "body": "Curaduría de piezas, textiles, iluminación y arte para completar tu hogar. Trabajamos con artesanos europeos y proveedores de confianza para un resultado cohesivo y duradero."
+      }
+    },
+    "process": {
+      "title": "El proceso de diseño",
+      "lead": "Un recorrido estructurado para que cada fase sea transparente, colaborativa y alineada con tu visión.",
+      "cta": "Saber más",
+      "steps": {
+        "consultation": {
+          "title": "Consulta inicial",
+          "body": "Reunión presencial o virtual para conocer el espacio, tu estilo de vida y el alcance del proyecto. Definimos objetivos, calendario y presupuesto orientativo."
+        },
+        "concept": {
+          "title": "Diseño conceptual",
+          "body": "Moodboards, paleta de materiales y bocetos de distribución. Refinamos la dirección estética antes de avanzar a documentación detallada."
+        },
+        "development": {
+          "title": "Desarrollo del diseño",
+          "body": "Planos, especificaciones técnicas, renders y selección de mobiliario a medida. Cada decisión queda documentada para obra y proveedores."
+        },
+        "procurement": {
+          "title": "Compras y gestión de proyecto",
+          "body": "Pedidos, logística, coordinación con instaladores y control de calidad en sitio. Tú recibes actualizaciones claras en cada hito."
+        },
+        "install": {
+          "title": "Instalación y fotografía",
+          "body": "Montaje final, styling y entrega del hogar listo para vivir. Opcionalmente documentamos el proyecto para tu portafolio personal."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Testimonios",
+      "prev": "Testimonio anterior",
+      "next": "Testimonio siguiente",
+      "items": {
+        "one": {
+          "quote": "Stephania transformó nuestra villa en Marbella en un refugio luminoso. Entendió la luz, el mar y nuestro ritmo de vida desde el primer día.",
+          "author": "Elena y Marco, Marbella"
+        },
+        "two": {
+          "quote": "El proceso fue impecable: concepto claro, materiales de calidad y una instalación sin estrés. El resultado supera lo que imaginamos.",
+          "author": "Sarah y James, Estepona"
+        },
+        "three": {
+          "quote": "Profesionalidad mediterránea en estado puro. Reformó nuestro apartamento en Málaga con elegancia y calidez.",
+          "author": "Lucía R., Málaga"
+        }
+      }
+    }
+  },
+  "Contact": {
+    "title": "Cuéntanos sobre tu proyecto",
+    "subtitle": "Comparte tu visión y te responderemos en breve.",
+    "cta": "Ir a contacto"
+  },
+  "ContactPage": {
+    "title": "Cuéntanos sobre tu proyecto",
+    "directContact": "También puedes escribirnos o llamarnos:",
+    "emailAria": "Enviar correo a Stephania Pérez",
+    "callAria": "Llamar por teléfono",
+    "whatsapp": "WhatsApp",
+    "whatsappAria": "Escribir por WhatsApp",
+    "imageAlt": "Salón mediterráneo luminoso con sofá y mesa de centro en la Costa del Sol",
+    "meta": {
+      "title": "Contacto | Stephania Pérez | Diseño de Interiores",
+      "description": "Contacta con el estudio de interiorismo en Marbella. Cuéntanos tu proyecto de villa, reforma o mobiliario en la Costa del Sol.",
+      "keywords": "contacto interiorista Marbella, presupuesto diseño interiores Costa del Sol"
+    }
+  },
+  "PlacesPage": {
+    "title": "Lugares",
+    "intro": "Diseñamos en toda la Costa del Sol, desde el glamour de Marbella hasta la energía cultural de Málaga y los pueblos con alma mediterránea.",
+    "meta": {
+      "title": "Lugares | Costa del Sol | Stephania Pérez",
+      "description": "Proyectos de interiorismo en Marbella, Málaga, Benalmádena, Torremolinos, Fuengirola, Alhaurín de la Torre y la Costa del Sol.",
+      "keywords": "interiorismo Marbella, diseño interiores Málaga, Torremolinos, Fuengirola, Benalmádena, Costa del Sol"
+    },
+    "locations": {
+      "marbella": {
+        "name": "Marbella",
+        "region": "Costa del Sol · Málaga",
+        "imageAlt": "Vista de la bahía de Marbella con yachts y montañas al fondo",
+        "body": "Villas con pórticos blancos y luz dorada. En Marbella diseñamos espacios que dialogan con el mar, el golf y un estilo de vida internacional sin perder la calma mediterránea."
+      },
+      "malaga": {
+        "name": "Málaga",
+        "region": "Costa del Sol · Capital",
+        "imageAlt": "Paseo marítimo y casco histórico de Málaga al atardecer",
+        "body": "Áticos urbanos, pisos señoriales y reformas con carácter. Málaga aporta cultura, gastronomía y una luz atlántica-meets-mediterránea que reflejamos en materiales cálidos y distribuciones fluidas."
+      },
+      "benalmadena": {
+        "name": "Benalmádena",
+        "region": "Costa del Sol · Málaga",
+        "imageAlt": "Costa de Benalmádena con acantilados y mar turquesa",
+        "body": "Entre marina y colinas, Benalmádena pide interiores frescos, terrazas vividas y transiciones suaves entre dentro y fuera. Ideal para segundas residencias junto al Mediterráneo."
+      },
+      "torremolinos": {
+        "name": "Torremolinos",
+        "region": "Costa del Sol · Málaga",
+        "imageAlt": "Paseo marítimo de Torremolinos con palmeras y luz de tarde",
+        "body": "Apartamentos frente al mar, reformas de pisos con sol y locales con ritmo de ciudad costera. En Torremolinos buscamos interiores luminosos, prácticos y con esa brisa mediterránea que invita a vivir en la terraza."
+      },
+      "fuengirola": {
+        "name": "Fuengirola",
+        "region": "Costa del Sol · Málaga",
+        "imageAlt": "Playa y horizonte azul en Fuengirola",
+        "body": "Entre el castillo Sohail y el paseo, Fuengirola mezcla tradición pesquera y vida cosmopolita. Diseñamos hogares y segundas residencias con materiales resistentes al sol, salones abiertos y cocinas pensadas para compartir después del día en la playa."
+      },
+      "alhaurin": {
+        "name": "Alhaurín de la Torre",
+        "region": "Costa del Sol · Valle interior",
+        "imageAlt": "Paisaje andaluz con olivos cerca de Alhaurín de la Torre",
+        "body": "Más allá de la línea de costa, el valle ofrece privacidad y vistas a la sierra. Proyectos aquí celebran la piedra local, patios sombreados y una vida más pausada a pocos minutos de Málaga."
+      }
+    }
+  },
+  "Form": {
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "projectType": "Tipo de proyecto",
+    "newConstruction": "Obra nueva",
+    "renovation": "Renovación",
+    "kitchen": "Cocinas",
+    "furnishingsOnly": "Solo mobiliario",
+    "scope": "Describe el alcance de tu proyecto",
+    "referral": "¿Cómo nos conociste?",
+    "submit": "Enviar",
+    "submitting": "Enviando…",
+    "successTitle": "Gracias por escribirnos",
+    "successMessage": "Hemos recibido tu mensaje. Te contactaremos pronto.",
+    "errors": {
+      "required": "Este campo es obligatorio",
+      "email": "Introduce un correo válido",
+      "phone": "Introduce un teléfono válido",
+      "projectType": "Selecciona al menos un tipo de proyecto"
+    }
+  },
+  "Footer": {
+    "rights": "Todos los derechos reservados.",
+    "tagline": "Diseño de interiores",
+    "instagram": "Instagram"
+  },
+  "Locale": {
+    "es": "ES",
+    "en": "EN"
+  }
+}

@@ -1,0 +1,55 @@
+# Stephania Pérez | Interior design (Costa del Sol)
+
+> Residential interior design studio based in Marbella, Spain. Mediterranean light, natural materials, bespoke kitchens, villas, and full renovations. Primary language: Spanish. English site available.
+
+Canonical site: https://stephaniaperez.com
+Default locale (x-default): Spanish at /es/
+English locale: /en/
+
+## What this business is
+
+Stephania Pérez is an interior designer and founder of a studio focused on residential projects on the Costa del Sol (Marbella, Málaga, Benalmádena, Torremolinos, Fuengirola, Alhaurín de la Torre, and surrounding areas). Work includes new-build villas, renovations, custom kitchens, furnishings, and indoor-outdoor living aligned with Mediterranean architecture and climate.
+
+## Services
+
+- New construction interior design (layout, lighting, materials, furnishings)
+- Renovations (bathrooms, living areas, exteriors)
+- Bespoke kitchen design
+- Furniture, finishes, and accessories curation
+- Design process from consultation through installation
+
+## Key pages (Spanish)
+
+- Home: https://stephaniaperez.com/es/
+- Portfolio: https://stephaniaperez.com/es/portfolio
+- About: https://stephaniaperez.com/es/about
+- Services: https://stephaniaperez.com/es/services
+- Places (service areas): https://stephaniaperez.com/es/places
+- Contact: https://stephaniaperez.com/es/contact
+
+## Key pages (English)
+
+- Home: https://stephaniaperez.com/en/
+- Portfolio: https://stephaniaperez.com/en/portfolio
+- About: https://stephaniaperez.com/en/about
+- Services: https://stephaniaperez.com/en/services
+- Places: https://stephaniaperez.com/en/places
+- Contact: https://stephaniaperez.com/en/contact
+
+## Contact
+
+- Email: hola@stephaniaperez.com
+- Phone: +34 600 000 000
+- Instagram: https://instagram.com/stephaniaperez
+- Location focus: Marbella, Málaga province, Spain (Costa del Sol)
+
+## SEO / language notes for crawlers
+
+- URLs use locale prefixes /es/ and /en/ with hreflang alternates and x-default pointing to Spanish.
+- Each locale has unique copy in messages/es.json and messages/en.json (not machine-translated duplicates).
+- Structured data: ProfessionalService + WebSite JSON-LD on all locale pages.
+
+## Optional
+
+- Sitemap: https://stephaniaperez.com/sitemap.xml
+- Open Graph image: https://stephaniaperez.com/og.jpg
