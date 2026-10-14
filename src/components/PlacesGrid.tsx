@@ -18,15 +18,29 @@ export async function PlacesGrid() {
               reversed ? "md:[&>div:first-child]:order-2" : ""
             }`}
           >
-            <div className="relative aspect-[4/3] w-full bg-neutral-100">
-              <Image
-                src={place.image}
-                alt={t(`locations.${slug}.imageAlt`)}
-                fill
-                sizes="(max-width: 768px) 100vw, 50vw"
-                className="object-cover"
-                priority={index === 0}
-              />
+            <div>
+              <div className="relative aspect-[4/3] w-full bg-neutral-100">
+                <Image
+                  src={place.image}
+                  alt={t(`locations.${slug}.imageAlt`)}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 50vw"
+                  className="object-cover"
+                  priority={index === 0}
+                />
+              </div>
+              {place.credit ? (
+                <p className="mt-2 text-[10px] tracking-[0.06em] text-muted">
+                  <a
+                    href={place.credit.href}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="hover:underline"
+                  >
+                    {place.credit.label}
+                  </a>
+                </p>
+              ) : null}
             </div>
             <div>
               <h2 className="font-serif text-2xl uppercase tracking-[0.12em] md:text-3xl">
