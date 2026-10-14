@@ -7,7 +7,7 @@ export const siteConfig = {
   },
   email: "hola@stephaniaperez.com",
   phone: "+34 600 000 000",
-  instagram: "https://instagram.com/stephaniaperez",
+  instagram: "https://www.instagram.com/stephaniaperezstudio",
   city: "Marbella",
   country: "ES",
   copyrightYear: 2026,
