@@ -17,6 +17,8 @@ const serviceKeys = [
   "furnishings",
 ] as const;
 
+const featuredServiceKeys = ["turnkey", "bespokeFurniture"] as const;
+
 export async function generateMetadata({
   params,
 }: {
@@ -81,6 +83,47 @@ export default async function ServicesPage({
                     {t(`services.${key}.body`)}
                   </p>
                 </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <section className="border-t border-border">
+          <div className="mx-auto max-w-6xl px-4 py-16 md:py-24">
+            <div className="max-w-2xl">
+              <p className="text-[10px] uppercase tracking-[0.28em] text-muted">
+                {t("featured.eyebrow")}
+              </p>
+              <h2 className="mt-4 font-serif text-3xl leading-tight md:text-5xl">
+                {t("featured.title")}
+              </h2>
+            </div>
+
+            <div className="mt-14 border-t border-border md:mt-20">
+              {featuredServiceKeys.map((key, index) => (
+                <article
+                  key={key}
+                  className="grid gap-8 border-b border-border py-12 md:grid-cols-12 md:gap-10 md:py-16"
+                >
+                  <div className="md:col-span-2">
+                    <span className="font-serif text-4xl text-border">
+                      {String(index + 1).padStart(2, "0")}
+                    </span>
+                  </div>
+                  <div className="md:col-span-4">
+                    <h3 className="font-serif text-2xl leading-snug md:text-3xl">
+                      {t(`featured.${key}.title`)}
+                    </h3>
+                    <p className="mt-4 text-[10px] uppercase tracking-[0.24em] text-muted">
+                      {t(`featured.${key}.promise`)}
+                    </p>
+                  </div>
+                  <div className="md:col-span-6 md:pt-1">
+                    <p className="text-base leading-8 text-muted md:text-lg">
+                      {t(`featured.${key}.body`)}
+                    </p>
+                  </div>
+                </article>
               ))}
             </div>
           </div>

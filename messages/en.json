@@ -93,6 +93,20 @@
         "body": "Curated furniture, textiles, lighting, and art to complete your home. We partner with trusted European makers and suppliers for a cohesive, lasting result."
       }
     },
+    "featured": {
+      "eyebrow": "Two ways to bring your project to life",
+      "title": "From the first idea to the final detail",
+      "turnkey": {
+        "title": "Turnkey service",
+        "promise": "One complete process. One point of contact. No worries.",
+        "body": "It begins by listening to how you want to live in the space. We turn that vision into a design proposal and 3D visualizations, then coordinate every specialist, order, and construction phase. We oversee execution through to the final piece and hand over a finished home, ready to enjoy. You take part in the decisions that matter; we make everything else happen."
+      },
+      "bespokeFurniture": {
+        "title": "Bespoke furniture",
+        "promise": "Unique pieces, made to belong in your space.",
+        "body": "When an off-the-shelf piece does not answer the space, we design it from the ground up. We create custom cabinetry, storage, furniture, and integrated solutions that use every centimeter and meet specific needs without disturbing the harmony of the interior. From the first sketch through fabrication and installation, every material, proportion, and finish is chosen around the way you live."
+      }
+    },
     "process": {
       "title": "The design process",
       "lead": "A structured journey so every phase stays transparent, collaborative, and aligned with your vision.",

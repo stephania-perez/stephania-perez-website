@@ -93,6 +93,20 @@
         "body": "Curaduría de piezas, textiles, iluminación y arte para completar tu hogar. Trabajamos con artesanos europeos y proveedores de confianza para un resultado cohesivo y duradero."
       }
     },
+    "featured": {
+      "eyebrow": "Dos formas de hacer realidad tu proyecto",
+      "title": "De la primera idea al último detalle",
+      "turnkey": {
+        "title": "Servicio llave en mano",
+        "promise": "Un proceso completo. Una única interlocutora. Cero preocupaciones.",
+        "body": "Todo comienza escuchando cómo quieres vivir el espacio. Transformamos esa visión en una propuesta de diseño y visualizaciones 3D; después coordinamos cada profesional, pedido y fase de obra. Supervisamos la ejecución hasta colocar la última pieza y entregarte un hogar terminado, listo para disfrutar. Tú participas en las decisiones importantes; nosotros hacemos que todo lo demás suceda."
+      },
+      "bespokeFurniture": {
+        "title": "Mobiliario a medida",
+        "promise": "Piezas únicas, creadas para pertenecer a tu espacio.",
+        "body": "Cuando una pieza estándar no responde al lugar, la diseñamos desde cero. Proyectamos carpintería personalizada, almacenaje, mobiliario e integraciones que aprovechan cada centímetro y resuelven necesidades concretas sin romper la armonía del interior. Desde el primer boceto hasta la fabricación e instalación, cada material, proporción y acabado se elige para tu forma de vivir."
+      }
+    },
     "process": {
       "title": "El proceso de diseño",
       "lead": "Un recorrido estructurado para que cada fase sea transparente, colaborativa y alineada con tu visión.",
